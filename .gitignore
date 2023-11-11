@@ -1,0 +1,10 @@
+#ignore terrafrom dir
+.terraform/*
+
+#ignore the terraform state
+*.tfstate
+*.tfstate.*
+
+#ignore the var file
+*.tfvars
+
